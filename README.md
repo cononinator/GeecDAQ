@@ -7,3 +7,6 @@ The code is divided into 3 sections:
 
 There is also the code for the steering wheel display.
 The code used at the SEM 2024 exists in the file SEM Scripts.
+
+There is limited comments on scripts and some files do not work properly/require testing
+This could be improved and is recomended to fix for the next maintainer.
